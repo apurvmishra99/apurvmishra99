@@ -5,8 +5,9 @@ I'm Apurv Mishra, a programmer by passion and a computer science student at The 
 - 🔭 I’m currently interning at a wonderful company called [Gambit Research](https://gambitresearch.com).
 - 👨‍💻  I'm currently writing fast and efficient Python(❤️) and C++ at work.
 - 🌱 I’m currently learning learning Go and Rust!
-- 💬 Ask me about Python, hackathons, indian cooking and sports!
+- 💬 Ask me about Python, hackathons, indian cooking and (all)sports!
 - ⚡ Where to find more of my work:
+  - [My website](https://apurvmishra.xyz)
   - [Devpost](https://devpost.com/apurvmishra99)
 - 📫 How to reach me:
   - [E-mail](mailto:me@apurvmishra.xyz)
