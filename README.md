@@ -1,5 +1,20 @@
-### Hi there 👋
+### 👋 Hi | नमस्ते | Olá | Salut | Nǐ hǎo !
 
+I'm Apurv Mishra, a programmer by passion and a computer science student at The University of Edinburgh. I'm also a hackathon addict and love working on random but interesting projects! When I'm not working/studying/programming you can find me roaming around Edinburgh, exploring the narrow wynds and meeting new people.
+
+- 🔭 I’m currently interning at a wonderful company called [Gambit Research](https://gambitresearch.com).
+- 👨‍💻  I'm currently writing fast and efficient Python(❤️) and C++ at work.
+- 🌱 I’m currently learning learning Go and Rust!
+- 💬 Ask me about Python, hackathons, indian cooking and sports!
+- ⚡ Where to find more of my work:
+  - [Devpost](https://devpost.com/apurvmishra99)
+- 📫 How to reach me:
+  - [E-mail](mailto:me@apurvmishra.xyz)
+  - [Linkedin](https://linkedin.com/in/apurv-mishra)
+  
+Thank you for visiting my little place on Github! Hope you have an awesome day!
+
+<img src="https://dry-ravine-68932.herokuapp.com/hits.svg" alt="Hits">
 <!--
 **apurvmishra99/apurvmishra99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
