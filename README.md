@@ -15,9 +15,8 @@ I'm Apurv Mishra, a programmer by passion and a computer science student at The 
   
 Thank you for visiting my little place on Github! Hope you have an awesome day!
 
-<img src="https://dry-ravine-68932.herokuapp.com/hits.svg" alt="Hits">
-<!--
-**apurvmishra99/apurvmishra99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitor count](https://arijitgupta42-visitor-badge.glitch.me/badge?page_id=apurvmishra99/apurvmishra99)
+<!--**apurvmishra99/apurvmishra99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
