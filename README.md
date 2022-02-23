@@ -2,7 +2,7 @@
 
 I'm Apurv Mishra, a programmer by passion and a computer science student at The University of Edinburgh. I'm also a hackathon addict and love working on random but interesting projects! When I'm not working/studying/programming you can find me roaming around Edinburgh, exploring the narrow wynds and meeting new people.
 
-- 🔭 I’m currently an incoming intern at [Stripe](https://stripe.com) and a teaching assistant for a number of courses at University of Edinburgh.
+- 🔭 I’m currently an incoming Software Engineer at [Stripe](https://stripe.com) and a teaching assistant for a number of courses at University of Edinburgh.
 - 👨‍💻  I'm currently writing fast and efficient Python(❤️) and C++ at work.
 - 🌱 I’m currently learning learning Go and Rust!
 - 💬 Ask me about Python, hackathons, indian cooking and (all)sports!
