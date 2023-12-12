@@ -1,10 +1,11 @@
 ### 👋 Hi | नमस्ते | Olá | Salut | Nǐ hǎo !
 
-I'm Apurv Mishra, a programmer by passion and a Software Engineer at Stripe. I'm also a hackathon addict and love working on random but interesting projects! When I'm not working/studying/programming you can find me roaming around London, exploring the different boroughs and meeting new people.
+I'm Apurv Mishra, a programmer by passion and a Software Engineer at [Capstone Investment Advisors](https://www.capstoneco.com/). I'm also a hackathon addict and love working on random but interesting projects! When I'm not working/studying/programming you can find me roaming around London, exploring the different boroughs and meeting new people.
 
-- 🔭 I’m currently a Software Engineer at [Stripe](https://stripe.com) working on the Bank Transfers payment team after graduating from University of Edinburgh in 2022.
-- 👨‍💻  I write lots of Ruby and Java at work.
-- 🐍 Python has all of my heart though! ❤️
+- 🔭 I’m currently a Software Engineer at [Capstone](https://capstoneco.com) working on the Risk Technologies team.
+- Previously I worked at [Stripe](https://stripe.com) in the Bank transfers payment method team.
+- I studied Computer Science and graduated from University of Edinburgh in 2022.
+- 👨‍💻  I write lots of Python at work now.
 - 💬 Ask me about Python, hackathons, Indian cooking and (all)sports 😄.
 - ⚡ Where to find more of my work:
   - [My website](https://apurvmishra.xyz)
