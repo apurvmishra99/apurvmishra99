@@ -2,7 +2,7 @@
 
 I'm Apurv Mishra, a programmer by passion and a Product Engineer at [Metaview](https://www.metaview.ai/), where we are building the best tools for recruiting. I'm also a hackathon addict and love working on random but interesting projects! When I'm not working/studying/programming you can find me roaming around London, exploring the different boroughs and meeting new people.
 
-- 🔭 I’m currently a Product Engineer at [Metaview](https://metaview.ai), we are hiring so check us out at [m.careers](https://m.careers) .
+- I’m currently a Product Engineer at [Metaview](https://metaview.ai), we are hiring so check us out at [m.careers](https://m.careers) .
 - Previously I worked at [Capstone Investment Advisors](https://www.capstoneco.com/) in their Risk Technologies team and at [Stripe](https://stripe.com) on Bank transfers.
 - I studied Computer Science and graduated from University of Edinburgh in 2022.
 - 👨‍💻  I write lots of Python at work now.
